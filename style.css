@@ -6,6 +6,7 @@ body {
 
 header {
   height: 5vh;
+  background-color: var(--wp--preset--color--cyan-bluish-gray);
 }
 
 main {
