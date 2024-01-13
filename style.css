@@ -2,7 +2,7 @@
 .wp-block-site-title {
   font-weight: normal;
 }
-nav .wp-block-pages-list__item a {
+nav a {
   font-weight: normal;
   border-bottom-width: 1px;
   border-bottom-style: solid;
