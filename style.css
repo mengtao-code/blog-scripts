@@ -19,3 +19,8 @@ main {
   height: 2rem;
   overflow-y: hidden;
 }
+
+a {
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+}
