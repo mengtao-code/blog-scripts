@@ -1,23 +1,13 @@
-a:hover {
-  text-decoration: none
+a, a:hover {
+  font-weight: normal;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
 }
 
 /* header */
 .wp-block-site-title {
   font-weight: normal;
 }
-nav .wp-block-pages-list__item a {
-  font-weight: normal;
-  border-bottom-width: 1px;
-  border-bottom-style: solid;
-}
-
-nav .wp-block-navigation-item__content {
-  font-weight: normal;
-  border-bottom-width: 1px;
-  border-bottom-style: solid;
-}
-
 /* main */
 
 main {
@@ -35,23 +25,6 @@ h3 {
 .wp-block-code {
   padding: calc((var(--wp--preset--spacing--30) + 0.75rem) * 0.5);
 }
-
-.entry-content a {
-  border-bottom-width: 1px;
-  border-bottom-style: solid;
-}
-
-.entry-content a:hover {
-  text-decoration: none;
-}
-
-.wp-block-post-title a {
-  font-weight: normal;
-  border-bottom-width: 1px;
-  border-bottom-style: solid;
-}
-
-/* footer */
 
 /* others */
 .height-2 {
