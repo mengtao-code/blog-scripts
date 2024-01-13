@@ -1,3 +1,7 @@
 .wp-block-code {
   padding: calc((var(--wp--preset--spacing--30) + 0.75rem) * 0.5) !important;
 }
+
+div:has(h1) {
+    padding: 0;
+}
