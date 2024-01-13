@@ -20,7 +20,7 @@ main {
   overflow-y: hidden;
 }
 
-entry-content a {
+.entry-content a {
   border-bottom-width: 2px;
   border-bottom-style: solid;
 }
