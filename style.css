@@ -36,7 +36,6 @@ a:hover {
 .wp-block-post-featured-image {
   width: 250px;
   height: 200px;
-  border: 1px solid black;
   display: table-cell;
   vertical-align: middle;
 }
