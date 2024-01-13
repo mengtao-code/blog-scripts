@@ -2,11 +2,17 @@
 .wp-block-site-title {
   font-weight: normal;
 }
-nav a {
+nav .wp-block-pages-list__item a {
   font-weight: normal;
   border-bottom-width: 1px;
   border-bottom-style: solid;
 }
+nav .wp-block-navigation-item__content a {
+  font-weight: normal;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+}
+
 /* main */
 
 main {
