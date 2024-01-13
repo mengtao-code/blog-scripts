@@ -1,18 +1,15 @@
-a, a:hover {
-  font-weight: normal;
-  border-bottom-width: 1px;
-  border-bottom-style: solid;
-  text-decoration: none !important;
+@import "./compact-style.css";
+
+body {
+  min-height: 100vh;
 }
 
-/* header */
-.wp-block-site-title {
-  font-weight: normal;
+header {
+  height: 5vh;
 }
-/* main */
 
 main {
-  min-height: 75vh;
+  min-height: 90vh;
 }
 
 h2 {
@@ -23,12 +20,17 @@ h3 {
   font-size: calc(var(--wp--preset--font-size--large) * 0.65);
 }
 
-.wp-block-code {
-  padding: calc((var(--wp--preset--spacing--30) + 0.75rem) * 0.5) !important;
+
+
+a,
+a:hover {
+  font-weight: normal;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  text-decoration: none !important;
 }
 
-/* others */
-.height-2 {
-  height: 2rem;
-  overflow-y: hidden;
+/* header */
+.wp-block-site-title {
+  font-weight: normal;
 }
