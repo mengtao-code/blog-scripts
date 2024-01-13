@@ -24,3 +24,7 @@ a {
   border-bottom-width: 2px;
   border-bottom-style: solid;
 }
+
+.wp-block-code {
+  padding: calc((var(--wp--preset--spacing--30) + 0.75rem) * 0.5);
+}
