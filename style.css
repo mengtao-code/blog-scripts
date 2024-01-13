@@ -7,7 +7,7 @@ nav .wp-block-pages-list__item a {
   border-bottom-width: 1px;
   border-bottom-style: solid;
 }
-nav .wp-block-navigation-item__content a {
+nav .wp-block-navigation-item__content {
   font-weight: normal;
   border-bottom-width: 1px;
   border-bottom-style: solid;
