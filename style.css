@@ -1,5 +1,5 @@
 h2 {
-  font-size: calc(var(--wp--preset--font-size--large) * 0.8);
+  font-size: calc(var(--wp--preset--font-size--large) * 0.75);
 }
 
 h3 {
