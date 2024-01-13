@@ -1,3 +1,7 @@
+a:hover {
+  text-decoration: none
+}
+
 /* header */
 .wp-block-site-title {
   font-weight: normal;
@@ -7,6 +11,7 @@ nav .wp-block-pages-list__item a {
   border-bottom-width: 1px;
   border-bottom-style: solid;
 }
+
 nav .wp-block-navigation-item__content {
   font-weight: normal;
   border-bottom-width: 1px;
@@ -38,6 +43,12 @@ h3 {
 
 .entry-content a:hover {
   text-decoration: none;
+}
+
+.wp-block-post-title a {
+  font-weight: normal;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
 }
 
 /* footer */
