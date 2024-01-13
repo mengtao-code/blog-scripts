@@ -1,0 +1,21 @@
+h2 {
+  font-size: calc(var(--wp--preset--font-size--large) * 0.8);
+}
+
+h3 {
+  font-size: calc(var(--wp--preset--font-size--large) * 0.65);
+}
+
+main {
+  min-height: 75vh;
+}
+
+.width-10 {
+  width: 10rem;
+  overflow-y: hidden;
+}
+
+.height-2 {
+  height: 2rem;
+  overflow-y: hidden;
+}
