@@ -2,7 +2,7 @@ a, a:hover {
   font-weight: normal;
   border-bottom-width: 1px;
   border-bottom-style: solid;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 /* header */
