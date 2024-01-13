@@ -28,3 +28,15 @@ main {
 .wp-block-code {
   padding: calc((var(--wp--preset--spacing--30) + 0.75rem) * 0.5);
 }
+
+.wp-block-site-title {
+  font-weight: normal;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+}
+
+wp-block-pages-list__item a {
+  font-weight: normal;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+}
