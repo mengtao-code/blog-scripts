@@ -36,3 +36,6 @@ main {
 .wp-block-pages-list__item a {
   font-weight: normal;
 }
+.wp-block-navigation-item__content {
+  font-weight: normal;
+}
