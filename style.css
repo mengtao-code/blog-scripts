@@ -24,7 +24,7 @@ h3 {
 }
 
 .wp-block-code {
-  padding: calc((var(--wp--preset--spacing--30) + 0.75rem) * 0.5);
+  padding: calc((var(--wp--preset--spacing--30) + 0.75rem) * 0.5) !important;
 }
 
 /* others */
