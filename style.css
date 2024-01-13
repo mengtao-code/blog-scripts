@@ -25,6 +25,10 @@ main {
   border-bottom-style: solid;
 }
 
+.entry-content a:hover {
+  text-decoration: none;
+}
+
 .wp-block-code {
   padding: calc((var(--wp--preset--spacing--30) + 0.75rem) * 0.5);
 }
