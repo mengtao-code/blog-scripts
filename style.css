@@ -32,7 +32,7 @@ a:hover {
   border-bottom-width: 0;
   border-bottom-style: none;
   text-decoration: underline !important;
-  background-color: grey;
+  background-color: var(--wp--preset--gradient--gradient-2);
 }
 
 /* header */
