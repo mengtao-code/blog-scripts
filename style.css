@@ -20,12 +20,19 @@ h3 {
   font-size: calc(var(--wp--preset--font-size--large) * 0.65);
 }
 
-a,
+a{
+  font-weight: normal;
+  border-bottom-width: 0;
+  border-bottom-style: none;
+  text-decoration: underline !important;
+}
+
 a:hover {
   font-weight: normal;
   border-bottom-width: 0;
   border-bottom-style: none;
   text-decoration: underline !important;
+  background-color: grey;
 }
 
 /* header */
