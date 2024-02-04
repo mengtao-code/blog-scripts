@@ -40,12 +40,12 @@ a:hover {
   font-weight: normal;
 }
 
-.wp-block-post-featured-image {
+/* .wp-block-post-featured-image {
   width: 250px;
   height: 200px;
   display: table-cell;
   vertical-align: middle;
-}
+} */
 .wp-block-post-featured-image img {
   max-width: 100%;
   max-height: 100%;
